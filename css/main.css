@@ -18,7 +18,7 @@ blockquote {
    font-family: 'Vollkorn', serif;
    font-weight: 400;
    font-size: 24px;
-   line-height: 1.1em;
+   line-height: 1.5em;
    width: 40%;
 }
 
@@ -37,7 +37,7 @@ img {
 }
 
 ol {
-   padding: 20px 50px;
+   margin: 20px 65px;
    list-style-type: decimal;
    font-family: 'Vollkorn', serif;
    font-weight: 400;
@@ -52,3 +52,4 @@ p {
    font-size: 24px;
    line-height: 1.4em;
 }
+
