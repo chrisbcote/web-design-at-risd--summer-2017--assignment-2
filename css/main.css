@@ -23,23 +23,33 @@ blockquote {
 }
 
 h2 {
-   padding: 50px;
-   font-size: 30px;
+   margin: 50px 50px 20px;
+   font-size: 40px;
    font-family: 'Vollkorn', serif;
-   font-weight: 400;
+   font-weight: 700;
    color: black;
-   letter-spacing: 0.06em;
+   letter-spacing: 0.04em;
 }
 
 img {
    display: inline-block;
-   padding: 10px 50px
+   padding: 0px 50px 10px;
 }
+
 ol {
-   padding: 0px 65px;
+   padding: 20px 50px;
    list-style-type: decimal;
    font-family: 'Vollkorn', serif;
    font-weight: 400;
    font-size: 16px;
    line-height: 1.4em;
+}
 
+p {
+   margin: 20px 50px;
+   font-family: 'Vollkorn', serif;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 1.4em;
+   background-color: gray;
+}
