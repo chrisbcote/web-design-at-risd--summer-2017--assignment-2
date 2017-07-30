@@ -23,7 +23,12 @@ blockquote {
 }
 
 h2 {
-   margin: 30px;
+   padding: 50px;
+   font-size: 30px;
+   font-family: 'Vollkorn', serif;
+   font-weight: 400;
+   color: black;
+   letter-spacing: 0.06em;
 }
 
 ol {
