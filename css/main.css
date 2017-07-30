@@ -17,7 +17,7 @@ blockquote {
    color: white;
    font-family: 'Vollkorn', serif;
    font-weight: 400;
-   font-size: 20px;
+   font-size: 24px;
    line-height: 1.1em;
    width: 40%;
 }
@@ -32,5 +32,10 @@ h2 {
 }
 
 ol {
+   padding: 50px;
    list-style-type: decimal;
    margin-left: 30px;
+   font-family: 'Vollkorn', serif;
+   font-weight: 400;
+   font-size: 16px;
+
