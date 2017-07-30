@@ -1,8 +1,31 @@
-ol {
-   list-style-type: decimal;
-   margin-left: 30px;
+header {
+   background: url("../img/arvo1.jpg") no-repeat fixed 0 0/cover;
+   height: 100vh;
 }
 
 h1 {
-   font-style: Georgia
+   padding: 50px;
+   font-size: 50px;
+   font-family: 'Vollkorn', serif;
+   font-weight: 400;
+   color: white;
+   letter-spacing: 0.06em;
 }
+
+blockquote {
+   padding: 50px;
+   color: white;
+   font-family: 'Vollkorn', serif;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 1.1em;
+   width: 40%;
+}
+
+h2 {
+   margin: 30px;
+}
+
+ol {
+   list-style-type: decimal;
+   margin-left: 30px;
